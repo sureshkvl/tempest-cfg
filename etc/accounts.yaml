@@ -1,0 +1,7 @@
+- username: 'demo'
+  user_id: 'f4a3fbe4da734f6dbb90fb43a57ef1e0'
+  tenant_id: 'b8f411226c73486abcc80eaa59308623'
+  tenant_name: 'demo'
+  password: 'openstack123'
+  roles:
+    - 'Member'

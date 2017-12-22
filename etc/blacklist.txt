@@ -1,0 +1,5 @@
+tempest.thirdparty
+tempest.scenario
+tempest.api.data_processing
+tempest.api.baremetal
+
