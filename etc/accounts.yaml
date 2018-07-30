@@ -5,3 +5,11 @@
   password: 'openstack123'
   roles:
     - 'Member'
+- username: 'demo1'
+  user_id: '7769c54e5d6840bfa6fded202a6527ea'
+  tenant_id: 'faf3b598c18d45aa9b586e87b6a426a4'
+  tenant_name: 'demo1'
+  password: 'openstack123'
+  roles:
+    - 'Member'
+
